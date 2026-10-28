@@ -17,4 +17,4 @@ jobs:
         run: |
           curl -sS --fail -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT_ID}" \
-            --data-urlencode "text=Nazar se bachao ki dua perh lo"
+            --data-urlencode "text=NzR  bch ki DUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUa pul lo"
